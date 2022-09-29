@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Grid Cell Foreground.svg"
+   inkscape:export-filename="C:\Users\Public\Documents\Unity Projects\Demineur\Assets\Images\Grid Cell Foreground.png"
+   inkscape:export-xdpi="44.43"
+   inkscape:export-ydpi="44.43">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="262.452"
+     inkscape:cy="693.30902"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3786"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3786"
+       transform="translate(367.69553,-104.04571)">
+      <rect
+         style="fill:#cccccc;fill-opacity:1;stroke:#808080;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3775"
+         width="254.28572"
+         height="254.28572"
+         x="-87.14286"
+         y="380.93362" />
+    </g>
+    <g
+       id="g3792"
+       transform="translate(258.59905,0)" />
+  </g>
+</svg>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Flag.svg"
+   inkscape:export-filename="C:\Users\Public\Documents\Unity Projects\Demineur\Assets\Images\Flag.png"
+   inkscape:export-xdpi="29.924507"
+   inkscape:export-ydpi="29.924507">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="296.44023"
+     inkscape:cy="311.68934"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2993"
+       style="fill:#000000">
+      <rect
+         transform="matrix(0.97271995,0.23198254,-0.23198254,0.97271995,0,0)"
+         ry="5.5558391"
+         y="517.38666"
+         x="529.30444"
+         height="241.42645"
+         width="11.111678"
+         id="rect2987"
+         style="fill:#000000;fill-opacity:1;stroke:#797979;stroke-width:0.00100000000000000;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect2989"
+         d="m 390.39734,529.88354 c 0,0 29.41157,-10.9837 40.77579,-10.9837 23.38852,2.22586 31.37452,15.81522 52.404,16.31738 11.36422,0 43.1908,-5.33368 43.1908,-5.33368 l 0,89.90358 c 0,0 -31.82658,5.33368 -43.1908,5.33368 -23.51783,-1.49452 -31.08192,-15.76054 -52.404,-16.31738 -11.36422,0 -40.77579,10.9837 -40.77579,10.9837 z"
+         style="fill:#000000;fill-opacity:1;stroke:#797979;stroke-width:0.00100000000000000;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+         transform="matrix(0.97162687,0.23651896,-0.23651896,0.97162687,0,0)" />
+    </g>
+    <rect
+       style="fill:none;stroke:#797979;stroke-width:0.00120953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2993"
+       width="384.86813"
+       height="384.86813"
+       x="130.30966"
+       y="542.23517" />
+  </g>
+</svg>

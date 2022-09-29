@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Qui Button.svg"
+   inkscape:export-filename="C:\Users\Public\Documents\Unity Projects\Demineur\Assets\Images\UI\Pannel.png"
+   inkscape:export-xdpi="44.43"
+   inkscape:export-ydpi="44.43">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3761"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="186.14014"
+     inkscape:cy="473.68494"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4829"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="translate(360,-38.571451)"
+       id="g4829">
+      <path
+         style="fill:#999999;fill-opacity:1;stroke:#808080;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="M 324.28125 438.8125 C 254.39388 438.8125 197.75 495.48762 197.75 565.375 C 197.75 635.26237 254.39388 691.90625 324.28125 691.90625 C 394.16863 691.90625 450.84375 635.26237 450.84375 565.375 C 450.84375 495.48762 394.16863 438.8125 324.28125 438.8125 z M 255.75 487.59375 L 288.71875 487.59375 L 312.59375 524.0625 C 317.08587 530.99621 320.70305 536.81261 323.4375 541.5 C 327.7343 535.0548 331.66789 529.32433 335.28125 524.34375 L 361.5 487.59375 L 393 487.59375 L 339.25 560.84375 L 397.09375 643.15625 L 364.71875 643.15625 L 332.8125 594.8125 L 324.3125 581.78125 L 283.4375 643.15625 L 251.5 643.15625 L 308.34375 562.28125 L 255.75 487.59375 z "
+         transform="translate(-360,38.571451)"
+         id="path3015" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3791"
+         style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+           id="flowRegion3793"><rect
+             id="rect3795"
+             width="51.51778"
+             height="65.659912"
+             x="60.609154"
+             y="534.15393" /></flowRegion><flowPara
+           id="flowPara3797"></flowPara></flowRoot>    </g>
+  </g>
+</svg>
